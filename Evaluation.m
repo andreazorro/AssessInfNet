@@ -1,5 +1,5 @@
-files_gs = dir('*.gs');
-files_inf = dir('*.tsv');
+files_gs = dir('**/*.gs');
+files_inf = dir('**/*.tsv');
 
 n = length(files_gs);
 m = length(files_inf);
