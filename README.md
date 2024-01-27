@@ -4,7 +4,7 @@ Assessment of inferred networks in Matlab
 Required Input 
 --------------
 
-* One or multiple *.tsv files with the inferred interactions. Only first two columns are taking into account. File name "<Method>_<data>.tsv" (See file Anova_Scoelicolor-rmabatch.tsv)
+* One or multiple *.tsv files with the inferred interactions. Only first two columns are taking into account. File name "Method_data.tsv" (See file Anova_Scoelicolor-rmabatch.tsv)
 * One or multiple *.gs files with the gold standard for the assessment. Only first two columns are taking into account. 
 
 Output
